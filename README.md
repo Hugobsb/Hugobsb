@@ -1,20 +1,12 @@
 # Hugo B. S. Benedicto
 
-<p float="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugobsb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugobsbenedicto@gmail.com?subject=Subject&amp;body=Message) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511983022367&text=Hello+from+GitHub) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hugobenedicto) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugobsb1)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugobsb/)
+- Sou desenvolvedor de aplicações comuns e web, sou Full Stack;
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugobsbenedicto@gmail.com?subject=Subject&amp;body=Message)
-  
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511983022367&text=Hello+from+GitHub)
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hugobenedicto)
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugobsb1)
-  
-</p>
+- Minha experiência consistente de mercado se concentra em React, React Native e Node;
 
-- 
+- Tenho 17 anos, mas consegui uma emancipação para trabalhar. Moro em São Paulo.
 
 ### Ferramentas e Tecnologias
 
