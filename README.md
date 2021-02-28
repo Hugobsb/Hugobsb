@@ -2,13 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugobsb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugobsbenedicto@gmail.com?subject=Subject&amp;body=Message) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511983022367&text=Hello+from+GitHub) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hugobenedicto) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugobsb1)
 
-- Sou Desenvolvedor Web Full Stack;
+- 📚 Entusiasta na área de sistemas de informação, estudei a fundo, me tornando assim Desenvolvedor Full Stack aos 17 anos, logo após ser emancipado aos 16.
 
-- Minha experiência consistente de mercado se concentra em React, React Native e Node;
-
-- Tenho 17 anos, mas consegui uma emancipação para trabalhar.
-
-- Moro em São Paulo.
+- 💻 Meus pais me deram meu primeiro computador assim que nasci. Até então, programo e estruturo sistemas desde os 15 anos. Atualmente, Desenvolvedor Full Stack II na Altran.
 
 ### Ferramentas e Tecnologias
 
