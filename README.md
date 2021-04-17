@@ -15,7 +15,7 @@
   - 💻 Meus pais me deram meu primeiro computador assim que nasci. Até então, programo e estruturo sistemas desde os 15 anos. Atualmente, Desenvolvedor Full Stack II na Altran.
 </details>
 <details align="center">
-   <summary> <samp>&#9776; Ferramentas e tecnologia</samp></summary><br>
+   <summary> <samp>&#9776; Ferramentas e tecnologias</samp></summary><br>
    <p float="left">
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
