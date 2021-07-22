@@ -48,11 +48,13 @@
    <summary> <samp>&#9776; Workspace & Stats</samp></summary><br>
    <p float="left">
 
-  <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+     
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Intel-Core_i7_8th-8700?style=for-the-badge&logo=intel&logoColor=white" />
+  <img alt="Intel Core I7" src="https://img.shields.io/badge/Intel-Core_i7_8th-8700?style=for-the-badge&logo=intel&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="NVIDIA GTX 1650" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   
 </p>
 
