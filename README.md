@@ -1,21 +1,22 @@
 # Hugo B. S. Benedicto
 
-<h3 align="center"><samp>Olá! Sou <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/hugobsb">o Hugo!</a></b></samp></h3>
+<h3 align="center"><samp>Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/hugobsb">Hugo</a>!</b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Desenvolvedor Full Stack Pleno na <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://actdigital.com">ACT Digital</a></b> 」<br>
-    「 Estudante da 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.etecsaomateus.com.br">Etec São Mateus</a></b> 」<br>
+    「 Engineer IT Specialist at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Z-Tech</a></b> 」<br>
+    「 Styding Internet Computing at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.etecsaomateus.com.br">Etec São Mateus</a></b> 」<br>
   </samp>
 </p>
 <details align="center">
-   <summary> <samp>&#9776; Sobre mim</samp></summary>
+   <summary> <samp>&#9776; About me</samp></summary>
 
-  - 📚 Entusiasta na área de sistemas de informação. A estudei a fundo, me tornando Desenvolvedor Full Stack aos 17 anos, logo após ser emancipado aos 16.
+  - 📚 An Information Systems enthusiastic, I studied it deeply, thus becoming a Full Stack Developer at the age of 17, shortly after being emancipated at age 16. At 18, Engineer IT Specialist.
 
-  - 💻 Meus pais me deram meu primeiro computador assim que nasci. Até então, programo e estruturo sistemas desde os 15 anos. Atualmente, Desenvolvedor Full Stack II na Altran.
+
+  - 💻 My parents gave me my first computer as soon as I was born. Until then, I have been programming and structuring systems since I was 15 years old.
 </details>
 <details align="center">
-   <summary> <samp>&#9776; Ferramentas e tecnologias</samp></summary><br>
+   <summary> <samp>&#9776; Technologies and tools</samp></summary><br>
    <p float="left">
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -45,7 +46,7 @@
 </p>
 </details>
 <details align="center">
-   <summary> <samp>&#9776; Workspace & Stats</samp></summary><br>
+   <summary> <samp>&#9776; Workspace & stats</samp></summary><br>
    <p float="left">
 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -65,7 +66,7 @@
 </p>
 </details>
 <details align="center">
-   <summary> <samp>&#9776; Contato</samp></summary><br>
+   <summary> <samp>&#9776; Contact</samp></summary><br>
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugobsb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugobsbenedicto@gmail.com?subject=Subject&amp;body=Message) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511983022367&text=Hello+from+GitHub) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hugobenedicto) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugobsb1)
 </details>
@@ -74,6 +75,6 @@
   <p align="center">
     ════ ⋆★⋆ ════<br>
     Hugo B. S. Benedicto<br><br>
-    <!--     Créditos: <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a> -->
+    <!--     Credits: <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a> -->
   </p>
 </samp>
