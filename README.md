@@ -4,7 +4,7 @@
 <p align="center"><br>
   <samp>
     「 Engineer IT Specialist at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Z-Tech</a></b> 」<br>
-    「 Styding Internet Computing at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.etecsaomateus.com.br">Etec São Mateus</a></b> 」<br>
+    「 Studying Internet Computing at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.etecsaomateus.com.br">Etec São Mateus</a></b> 」<br>
   </samp>
 </p>
 <details align="center">
