@@ -5,12 +5,6 @@
     Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/hugobsb">Hugo</a>!</b>
   </samp>
 </h3>
-
-<h3 align="center">
-  <samp>
-    Check also my <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/HugoBenedicto">Corporate Github</a>
-  </samp>
-</h3>
  
 <p align="center"><br>
   <samp>
