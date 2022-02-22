@@ -8,8 +8,8 @@
  
 <p align="center"><br>
   <samp>
-    「 Engineer IT Specialist at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Z-Tech</a></b> 」<br>
-    「 Studying Internet Computing at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.etecsaomateus.com.br">Etec São Mateus</a></b> 」<br>
+    「 Engineer IT Specialist at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Global Z-Tech</a></b> 」<br>
+    「 Studying Analysis and Systems Development at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://uniamerica.br/boulevard/graduacao/analise-e-desenvolvimento-de-sistemas">Uniamerica University</a></b> 」<br>
   </samp>
 </p>
 <details align="center">
