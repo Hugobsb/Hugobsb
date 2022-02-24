@@ -1,5 +1,3 @@
-# Hugo B. S. Benedicto
-
 <h3 align="center">
   <samp>
     Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/hugobsb">Hugo</a>!</b>
