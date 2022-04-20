@@ -6,10 +6,12 @@
  
 <p align="center"><br>
   <samp>
-    「 Engineer IT Specialist at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Global Z-Tech</a></b> 」<br>
+    「 Engineer IT Specialist at 🍻 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Global Z-Tech</a></b> 」<br>
     「 Studying Analysis and Systems Development at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://uniamerica.br/boulevard/graduacao/analise-e-desenvolvimento-de-sistemas">Uniamerica University</a></b> 」<br>
+    「  Why don't you leave me a message via 💬 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Hugobsb/Hugobsb/discussions/categories/guestbook">GitHub Discussion</a>?</b> 」<br>
   </samp>
 </p>
+
 <details align="center">
    <summary> <samp>&#9776; About me</samp></summary>
 
