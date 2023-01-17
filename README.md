@@ -15,7 +15,7 @@
 <details align="center">
    <summary> <samp>&#9776; About me</samp></summary>
 
-  - 📚 An Information Systems enthusiastic, I studied it deeply, thus becoming a Full Stack Developer at the age of 17, shortly after being emancipated at age 16. At 18, Engineer IT Specialist.
+  - 📚 An Information Systems enthusiastic, I studied it deeply, thus becoming a Full Stack Developer at the age of 17, shortly after being emancipated at age 16. I'm currently a Senior Software Engineer.
 
 
   - 💻 My parents gave me my first computer as soon as I was born. Until then, I have been programming and structuring systems since I was 15 years old.
