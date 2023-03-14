@@ -6,7 +6,7 @@
  
 <p align="center"><br>
   <samp>
-    「 Senior Software Engineer at 🍻 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Global Z-Tech</a></b> 」<br>
+    「 Senior Software Engineer at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://beesbank.com.br">🍻 AB-InBev, 🐝 BEES Bank</a></b> 」<br>
     「 Studying Analysis and Systems Development at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://uniamerica.br/boulevard/graduacao/analise-e-desenvolvimento-de-sistemas">UniAmérica University</a></b> 」<br>
     「  Why don't you leave me a message via 💬 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Hugobsb/Hugobsb/discussions/categories/guestbook">GitHub Discussion</a>?</b> 」<br>
   </samp>
@@ -54,13 +54,15 @@
    <summary> <samp>&#9776; Workspace & stats</samp></summary><br>
    <p float="left">
 
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
+     
+  <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
      
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-  <img alt="Intel Core I7" src="https://img.shields.io/badge/Intel-Core_i7_8th-8700?style=for-the-badge&logo=intel&logoColor=white" />
-  
-  <img alt="NVIDIA GTX 1650" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="Intel Core I7" src="https://img.shields.io/badge/Intel-Core_i7_8th-8700?style=for-the-badge&logo=intel&logoColor=white&labelColor=dodgerblue&color=blue" />
+
+  <img alt="RTX 3060" src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=forestgreen" />
   
 </p>
 
