@@ -58,7 +58,9 @@
      
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
      
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 
   <img alt="Intel Core I7" src="https://img.shields.io/badge/Intel-Core_i7_8th-8700?style=for-the-badge&logo=intel&logoColor=white&labelColor=dodgerblue&color=blue" />
 
