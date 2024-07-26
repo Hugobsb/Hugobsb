@@ -7,7 +7,7 @@
 <p align="center"><br>
   <samp>
     「 Senior Software Engineer at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://beesbank.com.br">🍻 AB-InBev, 🐝 BEES Bank</a></b> 」<br>
-    「 Studying Analysis and Systems Development at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://uniamerica.br/boulevard/graduacao/analise-e-desenvolvimento-de-sistemas">UniAmérica University</a></b> 」<br>
+    「 Graduated in Analysis and Systems Development at 🏦 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://uniamerica.br/boulevard/graduacao/analise-e-desenvolvimento-de-sistemas">UniAmérica University</a></b> 」<br>
     「  Why don't you leave me a message via 💬 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Hugobsb/Hugobsb/discussions/categories/guestbook">GitHub Discussion</a>?</b> 」<br>
   </samp>
 </p>
